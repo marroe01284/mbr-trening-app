@@ -11,7 +11,7 @@ export const exercises = [
       tips: 'Stram magen og rumpa, unngå å svaie i korsryggen.',
       media: {
         type: 'illustration',
-        src: '/assets/illustrations/plank.png',
+        src: '/illustrations/plank.png',
         alt: 'Plankeøvelse',
       },
     },
@@ -24,7 +24,7 @@ export const exercises = [
       tips: 'Hold kroppen rett, gå dypt og kontroller bevegelsen.',
       media: {
         type: 'illustration',
-        src: '/assets/illustrations/pushups.png',
+        src: '/illustrations/push-up.png',
         alt: 'Push-ups',
       },
     },
@@ -39,7 +39,7 @@ export const exercises = [
       tips: 'Raske steg, høy frekvens, lett på foten.',
       media: {
         type: 'illustration',
-        src: '/assets/illustrations/a-steps.png',
+        src: '/illustrations/kneløft.png',
         alt: 'A-steps øvelse',
       },
     },
@@ -52,7 +52,7 @@ export const exercises = [
       tips: 'Vær klar og eksploder raskt ved signal.',
       media: {
         type: 'illustration',
-        src: '/assets/illustrations/reaction-sprint.png',
+        src: '/illustrations/sprint.png',
         alt: 'Sprintøvelse',
       },
     },
@@ -67,7 +67,7 @@ export const exercises = [
       tips: 'Bruk armene og fokuser på myk landing.',
       media: {
         type: 'illustration',
-        src: '/assets/illustrations/box-jump.png',
+        src: '/illustrations/box-jump.png',
         alt: 'Kassehopp',
       },
     },
@@ -80,7 +80,7 @@ export const exercises = [
       tips: 'Bøy knærne godt og skyt opp med kraft.',
       media: {
         type: 'illustration',
-        src: '/assets/illustrations/vertical-jump.png',
+        src: '/illustrations/vertikal-hopp.png',
         alt: 'Vertikalhopp',
       },
     },
@@ -95,7 +95,7 @@ export const exercises = [
       tips: 'Hold jevn intensitet, ikke start for hardt.',
       media: {
         type: 'illustration',
-        src: '/assets/illustrations/fartlek.png',
+        src: '/illustrations/fartslek.png',
         alt: 'Fartslek',
       },
     },
@@ -108,7 +108,7 @@ export const exercises = [
       tips: 'Hold lav tyngdepunkt og raske vendinger.',
       media: {
         type: 'illustration',
-        src: '/assets/illustrations/shuttle-run.png',
+        src: '/illustrations/shuttle-run.png',
         alt: 'Shuttle Run',
       },
     },
@@ -123,7 +123,7 @@ export const exercises = [
       tips: 'Rolige bevegelser og god balanse.',
       media: {
         type: 'illustration',
-        src: '/assets/illustrations/hip-opener.png',
+        src: '/illustrations/hip-opener.png',
         alt: 'Hofteåpner',
       },
     },
